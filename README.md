@@ -1,2 +1,2 @@
-# spring-test
-Spring Test by IntelliJ 2019.2.4
+# spring-mvn
+Spring MVN by IntelliJ 2019.2.4
